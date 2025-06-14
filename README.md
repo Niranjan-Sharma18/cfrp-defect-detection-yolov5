@@ -11,7 +11,6 @@ cfrp-defect-detection-yolov5/
 ├── Preprocessing results/               # Evaluation PDFs, output images, and visualisations
 ├── YOLO Training Script/                # YOLOv5 training and prediction notebooks/scripts
 ├── README.md                            # Project overview and instructions
-├── requirements.txt                     # Python dependencies
 └── .gitignore                           # Exclusions for GitHub
 ```
 
