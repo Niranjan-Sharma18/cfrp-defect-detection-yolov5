@@ -42,3 +42,8 @@ pulsecompression thermography. NDT & E International, 102, pp.264-273.
 Niranjan Sharma: niranjan.sh18@gmail.com
 
 **Note**: The dataset is private. This repo shares reproducible methods, metrics, and evaluation reports only.
+
+<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/244b7fba-fa60-418d-8d37-05c7a8d39d69" />
+<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/4ef3e555-152f-4676-88c2-c886c9ca1c62" />
+
+
